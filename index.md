@@ -1,10 +1,10 @@
 # About
-Manoa Code Central is a Meteor application providing a place to request student coders at the University of Hawaii to work on a project.
+ManoaCoderCentral is a Meteor application providing a place to request student coders at the University of Hawaii to work on a project.
 
 # Installation
 [Install Meteor](https://www.meteor.com/install).
 
-[Download Manoa Code Central](#) or clone with git.
+[Download ManoaCoderCentral](#) or clone with git.
 
 Then, cd into the app/ directory and install libraries with:
 
