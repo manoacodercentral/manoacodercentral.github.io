@@ -23,3 +23,9 @@ If no issues arise, the applications will appear at [http://localhost:3000](http
 # Development History
 <a href="https://docs.google.com/a/hawaii.edu/drawings/d/18d-YgDrc5_pzB9v8Hsrmqk73pjkqIwE5b2TjRzAYoKc/edit?usp=sharing">Google drawing link</a>
 <img src="https://docs.google.com/drawings/d/18d-YgDrc5_pzB9v8Hsrmqk73pjkqIwE5b2TjRzAYoKc/pub?w=1440&amp;h=1080">
+
+## Milestone 1: Mockup Development
+
+[Milestone 1](https://github.com/manoacodercentral/monoacodercentral/issues?q=is%3Aopen+is%3Aissue+milestone%3AM1) involves the creation of mockup pages.
+
+Work for Milestone one is managed by [MonoaCoderCentral GitHub Project M1](https://github.com/manoacodercentral/monoacodercentral/projects/1).
