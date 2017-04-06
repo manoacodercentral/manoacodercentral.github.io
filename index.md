@@ -4,7 +4,7 @@ ManoaCoderCentral is a Meteor application providing a place to request student c
 # Installation
 [Install Meteor](https://www.meteor.com/install).
 
-[Download ManoaCoderCentral](#) or clone with git.
+[Download ManoaCoderCentral](https://github.com/manoacodercentral/monoacodercentral/archive/master.zip) or clone with git.
 
 Then, cd into the app/ directory and install libraries with:
 
