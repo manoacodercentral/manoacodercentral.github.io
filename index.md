@@ -26,6 +26,12 @@ If no issues arise, the applications will appear at [http://localhost:3000](http
 
 ## Milestone 1: Mockup Development
 
-[Milestone 1](https://github.com/manoacodercentral/monoacodercentral/issues?q=is%3Aopen+is%3Aissue+milestone%3AM1) involves the creation of mockup pages.
+Work for Milestone 1 began on April 6, 2017 and ended on April 13, 2017.
 
-Work for Milestone one is managed by [MonoaCoderCentral GitHub Project M1](https://github.com/manoacodercentral/monoacodercentral/projects/1).
+The goal was to create mockup pages for the system. The pages were created as a Meteor app to simplify the development process.
+
+Progress of Milestone one was managed by [MonoaCoderCentral GitHub Project M1](https://github.com/manoacodercentral/monoacodercentral/projects/1).
+
+Each issues was implemented in its own and merged into master upon completion. Occasionally one or two line changes were implemented directly in master when not part of an issue.
+
+![](images/m1-network-graph.png)
