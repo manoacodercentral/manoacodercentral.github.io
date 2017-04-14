@@ -4,7 +4,7 @@ ManoaCoderCentral is a Meteor application providing a place to request student c
 # Installation
 [Install Meteor](https://www.meteor.com/install).
 
-[Download ManoaCoderCentral](https://github.com/manoacodercentral/monoacodercentral/archive/master.zip) or clone with git.
+[Download ManoaCoderCentral](https://github.com/manoacodercentral/manoacodercentral/archive/master.zip) or clone with git.
 
 Then, cd into the app/ directory and install libraries with:
 
@@ -30,8 +30,14 @@ Work for Milestone 1 began on April 6, 2017 and ended on April 13, 2017.
 
 The goal was to create mockup pages for the system. The pages were created as a Meteor app to simplify the development process.
 
-Progress of Milestone one was managed by [MonoaCoderCentral GitHub Project M1](https://github.com/manoacodercentral/monoacodercentral/projects/1).
+Milestone 1 was implemented as [ManoaCoderCentral GitHub Milestone M1](https://github.com/manoacodercentral/manoacodercentral/milestone/1?closed=1).
 
-Each issues was implemented in its own and merged into master upon completion. Occasionally one or two line changes were implemented directly in master when not part of an issue.
+![](images/m1-milestone.png)
+
+Progress of Milestone one was managed by [ManoaCoderCentral GitHub Project M1](https://github.com/manoacodercentral/monoacodercentral/projects/1).
+
+![](images/m1-project.png)
+
+Each issues was implemented in its own branch and merged into master upon completion. Occasionally one or two line changes were implemented directly in master when not part of an issue.
 
 ![](images/m1-network-graph.png)
