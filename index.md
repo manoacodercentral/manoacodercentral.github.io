@@ -37,6 +37,13 @@ Work for Milestone 1 began on April 6, 2017 and ended on April 13, 2017.
 
 The goal was to create mockup pages for the system. The pages were created as a Meteor app to simplify the development process.
 
+Mockups for the following pages were completed during Milestone 1.
+
+<img width="200px" src="images/landing.png">
+<img width="200px" src="images/edit-profile.png">
+<img width="200px" src="images/profile-pool.png">
+<img width="200px" src="images/add-request.png">
+
 Milestone 1 was implemented as [ManoaCoderCentral GitHub Milestone M1](https://github.com/manoacodercentral/manoacodercentral/milestone/1?closed=1).
 
 ![](images/m1-milestone.png)
