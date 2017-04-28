@@ -55,3 +55,22 @@ Progress of Milestone one was managed by [ManoaCoderCentral GitHub Project M1](h
 Each issues was implemented in its own branch and merged into master upon completion. Occasionally one or two line changes were implemented directly in master when not part of an issue.
 
 ![](images/m1-network-graph.png)
+
+## Milestone 2: Information plumbing
+
+This milestone started on April 14, 2017 and ended on April 27, 2017.
+
+Basically, we talked and decided what information will be recorded how it will be displayed. We created collections the will hold information about profiles, project requests, and a couple global collections (os listings, programming languages listings)
+
+Milestone 2 was implemented as [ManoaCoderCentral GitHub Milestone 2](https://github.com/manoacodercentral/manoacodercentral/projects/2)::
+
+![](images/m2-milestone.png)
+
+
+Milestone 2 finished seven issues, and progress was recorded via the [ManoaCoderCentral GitHub Project M2](https://github.com/manoacodercentral/manoacodercentral/projects/2):
+
+![](images/m2-project.png)
+
+Each issue was implemented in its own branch, and merged into master when completed (mostly):
+
+![](images/m2-branch-graph.png)
