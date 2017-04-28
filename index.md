@@ -4,6 +4,7 @@
 - [Installation](#installation)
 - [Development History](#development-history)
   - [Milestone 1: Mockup Development](#milestone-1-mockup-development)
+  - [Milestone 2: Information plumbing](#milestone-2-information-plumbing)
 
 # About ManoaCoderCentral
 ManoaCoderCentral is a Meteor application providing a place to request student coders at the University of Hawaii to work on a project.
